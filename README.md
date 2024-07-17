@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bultut
 - 👀 I’m interested in Data Science, Machine Learning, AI and Math
 - 🌱 I’m currently learning AI 
-- 💞️ I’m looking to collaborate on any project on
+- 💞️ I’m looking to collaborate on any project on Data Science, AI
 - 📫 How to reach me: email: bultutyegonn@gmail.com
 - 😄 Pronouns: I, We
 - ⚡ Fun fact: Most wish, some do 
