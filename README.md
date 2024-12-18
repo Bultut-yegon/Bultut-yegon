@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bultut
-- 👀 I’m interested in Data Science, Machine Learning, AI and Math
-- 🌱 I’m currently learning AI 
+- 👀 I’m interested in *Data Science*|*Machine Learning* | *Math*
+- 🌱 I’m currently learning Cloud architecture 
 - 💞️ I’m looking to collaborate on any project on Data Science, AI
 - 📫 How to reach me: email: bultutyegonn@gmail.com
 - 😄 Pronouns: I, We
