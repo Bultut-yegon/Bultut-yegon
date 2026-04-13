@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Bultut<br>👀 I’m interested in Machine Learning | Cloud<br>🌱 I’m currently learning Cloud architecture<br>💞️ I’m looking to collaborate on any project on Data Science,ML, AI<br>📫 How to reach me: email: bultutyegonn@gmail.com
+👋 Hi, I’m @Bultut<br>👀 I’m interested in Machine Learning | Cloud<br>🌱 I’m currently learning Cloud architecture<br>💞️ I’m looking to collaborate on any project on Data Science,ML, AI<br>📫 How to reach me: email: bultutyegonn@gmail.com <br> portfolio: https://portfolio-pi-gray-97.vercel.app/
 
 
 ## 🌐 Socials:
